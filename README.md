@@ -34,3 +34,25 @@ Office Supplies have the highest product base margin.
 Delivery Truck is the most frequently used and costliest shipping mode.
 
 Washington generates the highest profit among cities.
+
+
+
+
+
+
+
+<img width="613" height="790" alt="amazon_sales_dashboard" src="https://github.com/user-attachments/assets/ca72bbd6-b845-45d1-9603-e909dcea9b02" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
